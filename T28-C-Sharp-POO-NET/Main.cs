@@ -26,6 +26,14 @@ namespace T28_C_Sharp_POO_NET
             Console.WriteLine("*****************************************");
 
             Ejercicio2.MainApp.Main();
+
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("*****          Ejercicio 3          *****");
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("*****************************************");
+
+            Ejercicio3.MainApp.Main();
         }
     }
 }
