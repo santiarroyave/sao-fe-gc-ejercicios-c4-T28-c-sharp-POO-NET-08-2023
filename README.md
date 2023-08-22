@@ -1,2 +1,4 @@
-# sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023
-C# Ejercicios POO .NET (9)
+# C4-T28 C# POO .NET (9 ejercicios)
+
+- ex01: Crear clase *Cuenta* con 2 atributos, getters, setters, toString y 2 métodos especiales.
+
