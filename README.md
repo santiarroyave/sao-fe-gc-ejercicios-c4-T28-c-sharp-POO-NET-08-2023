@@ -7,6 +7,7 @@
 - ex05: Crear clase *Videojuego*, clase *Serie* y una interfaz.
 - ex06: Crear clase *Libro*, con getters y setters, y toString.
 - ex07: Crear clase *Raices* para calcular las posibles raíces de una ecuación de 2º grado.
+- ex08: Crear clase *Estudiante*, *Profesor* y *Aula* y demás métodos.
 
 
 ## Links al código
@@ -17,3 +18,4 @@
 - [Ejercicio 5](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/Ejercicio5)
 - [Ejercicio 6](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/Ejercicio6)
 - [Ejercicio 7](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/Ejercicio7)
+- [Ejercicio 8](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/Ejercicio8)
