@@ -4,6 +4,11 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("*****          Ejercicio 6          *****");
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("*****************************************");
             //En el fichero main, crear 2 objetos Libro (los valores que se quieran) y mostrarlos por pantalla.
             Libro libro1 = new Libro();
             Libro libro2 = new Libro();
