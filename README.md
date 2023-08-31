@@ -5,6 +5,7 @@
 - ex03: Crear clase *Password*. (Generador de contraseñas)
 - ex04: Crear clase *Electrodoméstico*, clase *Lavadora* y clase *Televisión*.
 - ex05: Crear clase *Videojuego*, clase *Serie* y una interfaz.
+- ex06: Crear clase *Libro*, con getters y setters, y toString.
 
 
 ## Links al código
@@ -13,3 +14,4 @@
 - [Ejercicio 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/T28-C-Sharp-POO-NET/Ejercicio3)
 - [Ejercicio 4](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/Ejercicio4)
 - [Ejercicio 5](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/Ejercicio5)
+- [Ejercicio 6](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023/tree/main/Ejercicio6)

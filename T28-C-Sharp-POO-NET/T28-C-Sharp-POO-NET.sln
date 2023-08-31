@@ -5,9 +5,11 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T28-C-Sharp-POO-NET", "T28-C-Sharp-POO-NET.csproj", "{CB5DA86B-0937-4C28-9C60-62B10FF33843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio4", "..\Ejercicio4\Ejercicio4.csproj", "{9876EB80-1151-4978-8C05-37A7AD9962B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio4", "..\Ejercicio4\Ejercicio4.csproj", "{9876EB80-1151-4978-8C05-37A7AD9962B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5", "..\Ejercicio5\Ejercicio5.csproj", "{87FD2974-02F5-4DE0-935C-EE1F8048E5FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio5", "..\Ejercicio5\Ejercicio5.csproj", "{87FD2974-02F5-4DE0-935C-EE1F8048E5FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio6", "..\Ejercicio6\Ejercicio6.csproj", "{1FE1060D-C915-4694-BB46-98A0530A2FC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{87FD2974-02F5-4DE0-935C-EE1F8048E5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87FD2974-02F5-4DE0-935C-EE1F8048E5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87FD2974-02F5-4DE0-935C-EE1F8048E5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE1060D-C915-4694-BB46-98A0530A2FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE1060D-C915-4694-BB46-98A0530A2FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE1060D-C915-4694-BB46-98A0530A2FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE1060D-C915-4694-BB46-98A0530A2FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
